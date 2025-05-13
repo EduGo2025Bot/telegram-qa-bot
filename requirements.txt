@@ -1,0 +1,8 @@
+python-telegram-bot==21.*
+flask
+gunicorn
+pypdf
+python-docx
+python-pptx
+# רק אם אתן משתמשות ב-GPT
+openai
